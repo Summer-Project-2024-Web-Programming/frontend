@@ -21,10 +21,10 @@
 - **Deployment**: Basic javascript is used without any frameworks.you can just deploy it in github simply.
 
 ## Live Demo
-- [https://summer-project-2024-web-programming.github.io/frontend/](#)
+- [https://summer-project-2024-web-programming.github.io/frontend/](https://summer-project-2024-web-programming.github.io/frontend/)
 
 ## Related Presentation Materials
-- **Backend Repository**: [https://github.com/Summer-Project-2024-Web-Programming/backend](#)
+- **Backend Repository**: [https://github.com/Summer-Project-2024-Web-Programming/backend](https://github.com/Summer-Project-2024-Web-Programming/backend)
 
 
 ## Source Code
@@ -33,7 +33,7 @@
 - **Version Control**: This project uses Git for version control, hosted on GitHub. We follow the Gitflow branching strategy.
 
 ## Additional Resources
-- UI Design in Figma: [https://www.figma.com/design/1fdTppRerYHvOQs6vyBc2t/Summer_Project_UI?node-id=0-1&t=Uv5gADJ33Z1oBE9u-1](#)
+- UI Design in Figma: [https://www.figma.com/design/1fdTppRerYHvOQs6vyBc2t/Summer_Project_UI?node-id=0-1&t=Uv5gADJ33Z1oBE9u-1](https://www.figma.com/design/1fdTppRerYHvOQs6vyBc2t/Summer_Project_UI?node-id=0-1&t=Uv5gADJ33Z1oBE9u-1)
 
 ## Contact
 - email : t2akms00@students.oamk.fi
