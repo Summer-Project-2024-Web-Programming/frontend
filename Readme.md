@@ -33,7 +33,7 @@
 - **Version Control**: This project uses Git for version control, hosted on GitHub. We follow the Gitflow branching strategy.
 
 ## Additional Resources
-- Any additional resources, references, or documentation related to the project.
+- UI Design in Figma: [https://www.figma.com/design/1fdTppRerYHvOQs6vyBc2t/Summer_Project_UI?node-id=0-1&t=Uv5gADJ33Z1oBE9u-1](#)
 
 ## Contact
 - email : t2akms00@students.oamk.fi
